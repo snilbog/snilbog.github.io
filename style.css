@@ -1,37 +1,43 @@
 
 body {
     background-image: url("personal_bg.jpg");
+    background-blend-mode: normal;
 	}
-<style>	
-h1 {
-    color: White;
+img {
+	opacity: 0.8;
+	 border-radius: 25px;
+	}
+h1, h2, h3 {
+    color: #000033;
     text-align: center;
 	}
+/*h2 {
+	color: #000033;
+    text-align: center;
+	}*/
 header {
-    background-color:black;
     color:white;
     text-align:center;
-    padding:15px; 
-}
+    padding:05px;
+	}
 nav {
-    line-height:30px;
+    line-height:20px;
     /*background-color:black;*/
-    /*color: White;*/
-    height:300px;
-    width:100px;
+    /*color: #000080;*/
+    height:400px;
+    width:200px;
     float:left;
-    padding:15px; 
-}
+    padding:10px; 
+	}
 section {
-    width:350px;
+    width:500px;
     float:left;
-    padding:15px; 
-}
+    padding:10px; 
+	}
 footer {
     background-color:black;
     color:white;
     clear:both;
     text-align:center;
     padding:5px; 
-}
-</style>
+	}
