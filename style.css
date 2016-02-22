@@ -5,7 +5,8 @@ body {
 	}
 img {
 	opacity: 0.8;
-	 border-radius: 25px;
+	border-radius: 25px;
+	padding: 05px;
 	}
 h1, h2, h3 {
     color: #000033;
