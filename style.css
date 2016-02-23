@@ -1,6 +1,6 @@
 
 body {
-    background-image: url("personal_bg.jpg");
+    background-image: url("images/personal_bg.jpg");
     background-blend-mode: normal;
 	}
 img {
@@ -19,9 +19,9 @@ h1, h2, h3 {
 header {
     color:white;
     text-align:center;
-    padding:05px;
+    padding:01px;
 	}
-nav {
+aside {
     line-height:20px;
     /*background-color:black;*/
     /*color: #000080;*/
@@ -33,12 +33,11 @@ nav {
 section {
     width:500px;
     float:left;
-    padding:10px; 
+    padding:05px; 
 	}
 footer {
-    background-color:white;
-    color:white;
+    /*background-color:white;*/
     clear:both;
     text-align:center;
-    padding:5px; 
+    padding:05px; 
 	}
