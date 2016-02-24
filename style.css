@@ -1,43 +1,33 @@
-
 body {
-    background-image: url("images/personal_bg.jpg");
-    background-blend-mode: normal;
+    background-image: url("images/ps.jpg");
+    background-size: cover;
 	}
 img {
-	opacity: 0.8;
+	opacity: 0.9;
 	border-radius: 25px;
 	padding: 05px;
 	}
-h1, h2, h3 {
-    color: #000033;
+h1  {
+    color: white;
     text-align: center;
 	}
-/*h2 {
-	color: #000033;
+
+h2, p  {
+    color: white;
     text-align: center;
-	}*/
-header {
-    color:white;
+    }
+/*header {
+    color:black;
     text-align:center;
     padding:01px;
-	}
-aside {
-    line-height:20px;
-    /*background-color:black;*/
-    /*color: #000080;*/
-    height:400px;
-    width:200px;
-    float:left;
-    padding:10px; 
-	}
-section {
+	}*/
+/*section {
     width:500px;
-    float:left;
     padding:05px; 
 	}
 footer {
-    /*background-color:white;*/
+    background-color:white;
     clear:both;
     text-align:center;
     padding:05px; 
-	}
+	}*/
