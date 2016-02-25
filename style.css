@@ -1,6 +1,7 @@
 body {
     background-image: url("images/me.jpg");
     background-size: cover;
+    color: white;
 	}
 img {
 	opacity: 0.9;
@@ -8,14 +9,24 @@ img {
 	padding: 05px;
 	}
 h1  {
-    color: white;
     text-align: center;
 	}
 
-h2, p  {
+h2  {
     color: gold;
     text-align: center;
     }
+
+p  {
+    text-align: center;
+    }
+.color-me{
+    color: white;
+}
+
+.color-me2{
+    color: black;
+}
 
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
