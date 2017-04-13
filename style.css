@@ -4,9 +4,10 @@ body {
 }
 
 img {
-	opacity: 0.9;
+	opacity: 0.8;
 	border-radius: 25px;
 	padding: 05px;
+  max-height: 340px !important;
 }
 
 h1, h2, p {
